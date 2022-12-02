@@ -53,6 +53,7 @@
     color: white;
     padding: 12px 8px;
   }
+
   .countries li a { text-decoration: none; }
   
   .red_bumper {
@@ -60,6 +61,7 @@
     height: 6px;
     background-color: rgb(66, 18, 18);
   }
+  
   
   article { 
     padding: 20px;
@@ -88,11 +90,11 @@
   }
   
   #Spain { background-position: 0 0; }
-  #Italy { background-position: 225 0; }
-  #England { background-position: 450 0; }
-  #Brzail { background-position: -775 0; }
-  #Arentina { background-position: -1215 0; }
-  #Irland { background-position: -1215 0; }
+  #Italy { background-position: -225px 0; }
+  #England { background-position: -450px 0; }
+  #Brzail { background-position: -675px 0; }
+  #Arentina { background-position: -900px 0; }
+  #Irland { background-position: -1125px 0; }
   
   .sprite:hover { background-position-y: -150px !important; transition: 0.4s; }
   
